@@ -8,4 +8,10 @@ The flow of vehicles within and between parking zones will also be taken into ac
 We wish to include variable conditions that may affect the status of a parking lot such as weather, lot closures (partial or full), and zoning changes.
 Vehicles and traffic flow from outside of the present institution WILL NOT be taken into account (Vehicles passing through, non-students/staff/Employees).
 
-Project will use C++ and the SFML Library.
+Project will use C++ and the SFML Library in the MinGW enviroment.
+
+Development Team: 
+ - Sam Torbert (Front-end and UI)
+ - Jesse Slager (Back-end and UI)
+ - Wade Nicolas (Scrum Master and UX)
+ - Maxwell Moolchan (Data Collector and UX)
