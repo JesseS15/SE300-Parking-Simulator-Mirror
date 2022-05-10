@@ -1,0 +1,4 @@
+Tomcat: 2.09599
+Mustang: 1.67048
+Strip: 3.10874
+Challenger: 1.61034

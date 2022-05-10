@@ -1,0 +1,14 @@
+Default,src/images/Open.png,src/images/Full.png
+Handicapped,src/images/SpotDots/HandicappedEmpty.png,src/images/SpotDots/HandicappedFilled.png
+Handicap,src/images/SpotDots/HandicappedEmpty.png,src/images/SpotDots/HandicappedFilled.png
+Yellow/Green/Blue,src/images/SpotDots/MultiEmpty.png,src/images/SpotDots/MultiFilled.png
+Yellow,src/images/SpotDots/YellowEmpty.png,src/images/SpotDots/YellowFilled.png
+Green,src/images/SpotDots/GreenEmpty.png,src/images/SpotDots/GreenFilled.png
+Blue,src/images/SpotDots/BlueEmpty.png,src/images/SpotDots/BlueFilled.png
+Yellow/Blue/Green,src/images/SpotDots/MultiEmpty.png,src/images/SpotDots/MultiFilled.png
+Yellow/Green,src/images/SpotDots/GreenYellowEmpty.png,src/images/SpotDots/GreenYellowFilled.png
+EV,src/images/SpotDots/EVEmpty.png,src/images/SpotDots/EVFilled.png
+Visitor,src/images/SpotDots/VisitorEmpty.png,src/images/SpotDots/VisitorFilled.png
+University,src/images/SpotDots/UniversityEmpty.png,src/images/SpotDots/UniversityFilled.png
+ZipCar,src/images/SpotDots/ZipCarEmpty.png,src/images/SpotDots/ZipCarFilled.png
+Veteran,src/images/SpotDots/UniversityEmpty.png,src/images/SpotDots/UniversityFilled.png
