@@ -9,5 +9,3 @@ We wish to include variable conditions that may affect the status of a parking l
 Vehicles and traffic flow from outside of the present institution WILL NOT be taken into account (Vehicles passing through, non-students/staff/Employees).
 
 Project will use C++ and the SFML Library.
-
-(Sam's Branch)
