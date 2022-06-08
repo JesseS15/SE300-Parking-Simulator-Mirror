@@ -11,7 +11,7 @@ Vehicles and traffic flow from outside of the present institution WILL NOT be ta
 Project will use C++ and the SFML Library in the MinGW enviroment.
 
 Development Team: 
- - Sam Torbert (Front-end and UI)
- - Jesse Slager (Back-end and UI)
- - Wade Nicolas (Scrum Master and UX)
- - Maxwell Moolchan (Data Collector and UX)
+ - Sam Torbert (Front-end and UX)
+ - Jesse Slager (Back-end and UX)
+ - Wade Nicolas (Scrum Master and UI)
+ - Maxwell Moolchan (Data Collector and UI)
